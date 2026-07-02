@@ -1,0 +1,5 @@
+Big Data is the future of analytics.
+Hadoop processes large datasets efficiently.
+HDFS replicates data across multiple nodes.
+Big Data enables better decision making.
+Hadoop is widely used in Big Data applications.
