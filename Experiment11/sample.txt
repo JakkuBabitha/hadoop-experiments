@@ -1,0 +1,6 @@
+cat > sample.txt
+Hello Spark
+Apache Spark is fast
+Hello Hadoop
+Big Data with Spark
+Hello Big Data
